@@ -12,7 +12,7 @@
         editor.ui.addRichCombo('fontweight', {
             label: lang.title,
             title: lang.title,
-            toolbar: 'styles,40',
+            toolbar: 'styles',
             allowedContent: style,
             requiredContent: style,
             panel: {
